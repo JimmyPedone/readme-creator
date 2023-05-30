@@ -6,3 +6,12 @@ Hello! My task was to create a readme generator that allows the user to create a
 I had issues with getting the licensing to render as a seciton, this is definitely something I would like to work on for a resubmission in the future!
 
 I'm proud of what I've made, and plan on using something like this for my professional career.
+
+
+## Link to the Screencastify Video
+https://drive.google.com/file/d/1MuxxrrCR-4FtIFN7gQ6TTBJHeZWarXpN/view
+
+## Link to github
+https://github.com/JimmyPedone
+
+## Link to deployment

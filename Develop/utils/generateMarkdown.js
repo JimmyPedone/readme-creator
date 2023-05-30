@@ -56,7 +56,7 @@ ${data.testInstructions}
 ## Questions
 * Name - ${data.name}
 * Email - ${data.email}
-* Email - [${data.creator}](https://github.com/${data.creator}/)
+* GitHub - [${data.creator}](https://github.com/${data.creator}/)
 
 
 `;}
